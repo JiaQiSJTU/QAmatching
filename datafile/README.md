@@ -1,1 +1,1 @@
-The data will be released soon.
+Put the downloaded dataset and pretrained word embeddings under this folder.
