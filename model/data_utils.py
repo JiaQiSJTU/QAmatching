@@ -15,7 +15,6 @@ class MyIOError(Exception):
         message = """
 ERROR: Unable to locate file {}.
 
-FIX: Have you tried running python build_data.py first?
 This will build vocab file from your train, test and dev sets and
 trimm your word vectors.
 """.format(filename)
